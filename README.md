@@ -22,9 +22,9 @@ This is a beginner-friendly Python project that reads student records from a tex
 ## Sample Input
 
 ```text
-Prajakta,25
-Pradnya,23
-ANKITA,07
+Raj,25
+Sham,23
+Prajakta,07
 ```
 
 ## Sample Output
@@ -35,8 +35,8 @@ Student Analysis:
     'average': 18.33,
     'number_of_students': 3,
     'total_marks': 55,
-    'highest_marks_student': 'Prajakta',
-    'lowest_marks_student': 'ANKITA'
+    'highest_marks_student': 'Raj',
+    'lowest_marks_student': 'Prajakta'
 }
 ```
 
